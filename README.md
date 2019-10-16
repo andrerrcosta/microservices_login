@@ -1,4 +1,4 @@
 # microservices_gwan
 
-sample of simple mail registration with microservices in springboot using rabbitmq as messager and hateoas
+sample of simple mail registration with microservices using springboot, rabbitmq as messengr and hateoas
 
