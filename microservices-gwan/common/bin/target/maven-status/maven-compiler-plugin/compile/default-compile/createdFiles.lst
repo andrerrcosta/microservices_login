@@ -1,0 +1,4 @@
+com/hummel/testgwan/common/models/Customer$CustomerBuilder.class
+com/hummel/testgwan/common/repository/CustomerRepository.class
+com/hummel/testgwan/common/models/AbstractEntity.class
+com/hummel/testgwan/common/models/Customer.class
